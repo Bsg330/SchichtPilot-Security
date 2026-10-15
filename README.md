@@ -12,3 +12,5 @@ Hamburger-Menü, Monatskalender und -liste, Bearbeiten/Löschen, Schichtvorlagen
 PRO/PayPal ist **noch nicht aktiv**. Gehalts- und AZK-Berechnungen sind Schätzungen und ersetzen keine tarifliche Lohnabrechnung. Urlaubs-/Krankheitsanrechnung, Netto und automatischer AZK-Übertrag sind noch nicht vollständig umgesetzt.
 
 Version 0.4.1: Icon-Auswahl unter Einstellungen (Neues Logo/Klassisch), Monatsübersicht unter Kalender ausgeblendet, PDF/Teilen neben Monatsliste, Schicht hinzufügen separat. iOS Home-Bildschirm-Icon: zum Wechsel ggf. Verknüpfung entfernen und neu hinzufügen.
+
+Version 0.4.5: ISO-Kalenderwochen links, KW-Spaltenkopf, breitere Wochenbalken-Ansicht mit kompakter Umschaltung.
