@@ -1,15 +1,12 @@
-# SchichtPilot Security · Demo 0.2
+# SchichtPilot Security – Demo 0.4
 
-Offlinefähige Web-App mit Monatskalender, Monatsliste, Wochenend- und Feiertagsfarben für Sachsen sowie Druck-/PDF-Monatskalender.
+## Installation / Update auf GitHub Pages
+Alle Dateien aus diesem ZIP ins Stammverzeichnis des bestehenden GitHub-Repositories hochladen und vorhandene Dateien ersetzen. Das Repository und die URL nicht löschen oder ändern. Danach die App online neu laden und im Menü „Updates“ prüfen. Bei bereits zum Home-Bildschirm hinzugefügter App kann iOS das Icon erst nach Entfernen und erneutem Hinzufügen aktualisieren.
 
-## Update von 0.1
+## Datensicherung
+Vor dem Update in der alten App unter Einstellungen die JSON-Datensicherung exportieren. Der bisherige localStorage-Schlüssel `schichtpilot_demo_01` bleibt erhalten; die App löscht keine alten Dienstpläne. Daten sind jedoch an Browser und Webadresse gebunden.
 
-Die vier Dateien `index.html`, `manifest.webmanifest`, `service-worker.js`, `icon.svg` im **Stammverzeichnis** des vorhandenen GitHub-Repositories ersetzen. Nicht das Repository löschen. Die bisherigen Einträge bleiben unter dem unveränderten lokalen Speicherschlüssel `schichtpilot_demo_01` erhalten, sofern die gleiche Website/Browser-App weitergenutzt und deren lokale Daten nicht gelöscht werden. Vor dem Update eine JSON-Sicherung exportieren.
+## Funktionen und Einschränkungen
+Hamburger-Menü, Monatskalender und -liste, Bearbeiten/Löschen, Schichtvorlagen, Rotation, AZK-Vorschau, Gehalts- und Zuschlagsvorschau, Feedback per E-Mail an sven.willumeit@web.de, Updateprüfung über version.json, PDF teilen über das iOS-Teilen-Menü sofern vom Browser unterstützt. Ohne Share API erfolgt ein Dateidownload.
 
-## PDF
-
-Über „PDF / Drucken“ wird die Kalenderansicht im A4-Querformat für das Browser-Druckmenü aufbereitet. Unter iOS kann man im Druckdialog die Vorschau als PDF öffnen und über das Teilen-Menü speichern oder versenden. Das ist noch kein eigenständiger PDF-Generator.
-
-## Hinweise
-
-Nur Demonstration, keine verbindliche Lohnabrechnung. Feiertage für Sachsen (einschließlich Buß- und Bettag) werden angezeigt. Regionale Sonderregelungen und individuelle Tarifregeln sind noch nicht enthalten.
+PRO/PayPal ist **noch nicht aktiv**. Gehalts- und AZK-Berechnungen sind Schätzungen und ersetzen keine tarifliche Lohnabrechnung. Urlaubs-/Krankheitsanrechnung, Netto und automatischer AZK-Übertrag sind noch nicht vollständig umgesetzt.

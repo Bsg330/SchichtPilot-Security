@@ -1,1 +1,25 @@
-{"name":"SchichtPilot Security","short_name":"SchichtPilot","description":"Offline-Dienstplan für Sicherheitsmitarbeiter · Demo 0.2","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f6f8fc","theme_color":"#f6f8fc","lang":"de","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "SchichtPilot Security",
+  "short_name": "SchichtPilot",
+  "description": "SchichtPilot Security Demo 0.4 – Dienstplan, AZK und Lohnvorschau",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#f6f8fc",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
