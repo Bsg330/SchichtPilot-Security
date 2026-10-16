@@ -1,1 +1,1 @@
-SchichtPilot Security 0.5.2 Beta. Monatsansicht: kompakte obere Werkzeugleiste mit Ansichtsumschaltung, Menü für PDF/Export, Schicht eintragen unter dem Kalender, größere Beschriftungen. Kostenlose Beta. Vor Update JSON-Sicherung exportieren. Alle Dateien zusammen auf HTTPS hosten. Nicht auf iPhone getestet.
+SchichtPilot Security 0.5.3 Beta – neue Schichteingabe, wiederholte Folgetage, Urlaubskonto. Vor dem Update JSON-Sicherung exportieren. Bestehende Daten bleiben bei derselben Origin und gleichem Browserprofil erhalten.
