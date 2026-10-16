@@ -1,3 +1,1 @@
-SchichtPilot Security 0.5.0 – Betatest
-
-Enthält Wochen-/Jahresansicht, Auswertungen, Dunkelmodus und Versionsvergleich. Die vorhandene lokale Datenspeicherung bleibt bestehen. Vor jedem Update JSON-Sicherung exportieren. Für Hosting alle Dateien zusammen hochladen. Keine Cloud-Synchronisation oder Zahlungsfunktion. © Sven Willumeit.
+SchichtPilot Security 0.5.1 – kostenlose Beta. Hamburger-Menü als Seitenleiste, Preisangaben und PRO-Freischaltung entfernt, Versionsvergleich verbessert. Bestehende lokale Daten bleiben bei Aktualisierung derselben HTTPS-Adresse erhalten. Vor dem Update JSON-Sicherung exportieren. Noch nicht auf iPhone getestet. © Sven Willumeit.
