@@ -14,3 +14,6 @@ PRO/PayPal ist **noch nicht aktiv**. Gehalts- und AZK-Berechnungen sind Schätzu
 Version 0.4.1: Icon-Auswahl unter Einstellungen (Neues Logo/Klassisch), Monatsübersicht unter Kalender ausgeblendet, PDF/Teilen neben Monatsliste, Schicht hinzufügen separat. iOS Home-Bildschirm-Icon: zum Wechsel ggf. Verknüpfung entfernen und neu hinzufügen.
 
 Version 0.4.5: ISO-Kalenderwochen links, KW-Spaltenkopf, breitere Wochenbalken-Ansicht mit kompakter Umschaltung.
+
+
+Version 0.4.6: Hoch-/Querformat-Auswahl für den Browserdruck; rechtliche Info-Abschnitte und unverbindliche PRO-Preisideen. Bestehender localStorage-Schlüssel unverändert. Die separate interne PDF-Erzeugung der Zusatz-Auswertungsseite bleibt unverändert.
