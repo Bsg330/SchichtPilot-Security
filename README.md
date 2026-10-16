@@ -17,3 +17,5 @@ Version 0.4.5: ISO-Kalenderwochen links, KW-Spaltenkopf, breitere Wochenbalken-A
 
 
 Version 0.4.6: Hoch-/Querformat-Auswahl für den Browserdruck; rechtliche Info-Abschnitte und unverbindliche PRO-Preisideen. Bestehender localStorage-Schlüssel unverändert. Die separate interne PDF-Erzeugung der Zusatz-Auswertungsseite bleibt unverändert.
+
+0.4.7: Monats-PDF als vollstaendige A4-Hochformat-Liste mit freien Tagen und Stundensumme.
