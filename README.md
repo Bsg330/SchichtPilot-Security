@@ -1,5 +1,5 @@
-SchichtPilot Security 0.5.5 Beta
+SchichtPilot Security 0.5.6 Beta
 
-Neu: feste untere Navigation mit Kalender, Monatsliste, Verdienst und Auswertung. Einstellungen und weitere Funktionen bleiben im Hamburger-Menü. Lokale Datenspeicherung unverändert.
+Untere Navigation: Kalender, Monatsliste, Verdienst, Auswertung. Auswertung zeigt lokale Monatseinträge und Stunden. Hamburger-Menü als vertikale Liste unten mit Zurück zum Kalender. Schnelltasten nebeneinander.
 
-Vor dem Update JSON-Sicherung exportieren. Alle Dateien in GitHub Pages hochladen, einschließlich version.json.
+Vor dem Update JSON-Datensicherung erstellen. App-Dateien inklusive version.json auf GitHub Pages hochladen. Auf dem iPhone danach neu laden.
