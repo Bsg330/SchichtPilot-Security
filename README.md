@@ -1,5 +1,5 @@
-SchichtPilot Security 0.5.6 Beta
+SchichtPilot Security 0.5.7 Beta
 
-Untere Navigation: Kalender, Monatsliste, Verdienst, Auswertung. Auswertung zeigt lokale Monatseinträge und Stunden. Hamburger-Menü als vertikale Liste unten mit Zurück zum Kalender. Schnelltasten nebeneinander.
+Neu: Design & Personalisierung in Einstellungen. Hintergrund für die gesamte App (Bild, Farbe, Dunkelmodus), Transparenz und Abdunklung, individuelle Schichtfarben und Symbole. Bestehende Dienstplan-Daten bleiben lokal erhalten.
 
-Vor dem Update JSON-Datensicherung erstellen. App-Dateien inklusive version.json auf GitHub Pages hochladen. Auf dem iPhone danach neu laden.
+ZIP-Inhalt auf GitHub Pages hochladen; bestehende Dateien ersetzen. Vor Updates bitte Datensicherung exportieren.
