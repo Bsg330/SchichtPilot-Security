@@ -1,5 +1,1 @@
-SchichtPilot Security 0.5.7 Beta
-
-Neu: Design & Personalisierung in Einstellungen. Hintergrund für die gesamte App (Bild, Farbe, Dunkelmodus), Transparenz und Abdunklung, individuelle Schichtfarben und Symbole. Bestehende Dienstplan-Daten bleiben lokal erhalten.
-
-ZIP-Inhalt auf GitHub Pages hochladen; bestehende Dateien ersetzen. Vor Updates bitte Datensicherung exportieren.
+SchichtPilot Security 0.5.7.2 – Schriftgröße im Kalender: Normal, Groß, Extra groß. Baut auf Hotfix 0.5.7.1 auf. Bestehende lokale Dienstpläne bleiben erhalten. Vor Update Sicherung exportieren.
