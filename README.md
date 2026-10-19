@@ -1,2 +1,1 @@
-SchichtPilot Security 0.5.8 Beta
-Neue Druckauswahl: Monatsliste, Jahresliste, Monatskalender; Update-Hinweis bei neuer Online-Version. Lokale Daten bleiben erhalten. Vor Updates JSON-Sicherung erstellen.
+SchichtPilot Security 0.5.9 Beta: PDF-Export als echte PDF-Datei (Monatsliste, Jahresliste, Kalender), verbesserte Menüführung, Update-Hinweise. Daten bleiben im lokalen Speicher; vor Update Sicherung exportieren.
