@@ -1,1 +1,1 @@
-SchichtPilot Security 0.5.9.2 – linksseitiges Hamburger-Menü mit X, Overlay, scrollbar. Daten bleiben lokal. Vor Update Sicherung exportieren.
+SchichtPilot Security 0.5.9.3 – Feld „Weitere Tage“ beim Neueintrag wiederhergestellt. 4 = Starttag + 4 Tage. Bereits belegte Tage werden nicht überschrieben. Bestehende Daten bleiben lokal erhalten.
