@@ -1,1 +1,3 @@
-SchichtPilot Security 0.5.9 Beta: PDF-Export als echte PDF-Datei (Monatsliste, Jahresliste, Kalender), verbesserte Menüführung, Update-Hinweise. Daten bleiben im lokalen Speicher; vor Update Sicherung exportieren.
+SchichtPilot Security 0.5.9.1 – Menü-Hotfix und Installationshinweis.
+Menü maximal 44% der Bildschirmhöhe und scrollbar; Installationshinweis auch beim ersten Start dieser Version.
+Vor dem Update JSON-Datensicherung exportieren.
