@@ -1,1 +1,1 @@
-SchichtPilot Security 0.6.2: Hamburger-Menü als seitlich öffnende Navigation, mit dunklem Hintergrund, Schließen bei Auswahl/Außentipp/Escape. Versionen synchronisiert. PRO und Testphase sind weiterhin nur ein lokaler Prototyp ohne sichere Lizenz- oder Zahlungsprüfung. Vor Aktualisierung Daten sichern.
+SchichtPilot Security 0.6.3: Veraltete PRO-Tarife entfernt, Reisebanner für die Testphase wieder eingefügt. PRO-Ansicht zeigt kein Banner. Zahlungen und Lizenzprüfungen bleiben Vorschau. Vor Updates Schichtdaten sichern.
