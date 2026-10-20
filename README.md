@@ -1,1 +1,1 @@
-SchichtPilot Security 0.5.9.4 – Neuer farbiger Reisebanner unter dem Kalender mit externem TraviaNet-Partnerlink. Keine Änderung an Schichtdaten, Berechnung oder PDF. Hinweis: Werbung benötigt Internetzugang; vor öffentlicher Nutzung Impressum/Datenschutz prüfen.
+SchichtPilot Security 0.5.9.5 – Kompakter Reisebanner mit unverändertem TraviaNet-Link. Schichtplanerfunktionen unverändert. Vor Aktualisierung Datensicherung exportieren.
