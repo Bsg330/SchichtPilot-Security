@@ -1,1 +1,1 @@
-SchichtPilot Security 0.6.0: lokaler Prototyp für 7-Tage-Testphase und PRO-Infoseite. Keine echte Bezahlung, keine sichere Lizenz- oder Entwicklerauthentifizierung. Entwicklermodus nur zur Simulation. Vor Installation Daten sichern.
+SchichtPilot 0.6.1 – Versionsabgleich korrigiert (Anzeige, interner Wert, Update-Prüfung, version.json). Navigationsmenü erhält einen funktionierenden Zurück-Knopf und wird beim Seitenwechsel geschlossen. PRO-Ansicht und Testphase bleiben Prototypen; keine sichere Lizenzprüfung oder Zahlung. Bitte vor Upload Daten sichern.
