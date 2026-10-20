@@ -1,1 +1,1 @@
-SchichtPilot Security 0.5.9.3 – Feld „Weitere Tage“ beim Neueintrag wiederhergestellt. 4 = Starttag + 4 Tage. Bereits belegte Tage werden nicht überschrieben. Bestehende Daten bleiben lokal erhalten.
+SchichtPilot Security 0.5.9.4 – Neuer farbiger Reisebanner unter dem Kalender mit externem TraviaNet-Partnerlink. Keine Änderung an Schichtdaten, Berechnung oder PDF. Hinweis: Werbung benötigt Internetzugang; vor öffentlicher Nutzung Impressum/Datenschutz prüfen.
