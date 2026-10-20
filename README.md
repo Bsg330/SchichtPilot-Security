@@ -1,1 +1,1 @@
-SchichtPilot Security 0.5.9.5 – Kompakter Reisebanner mit unverändertem TraviaNet-Link. Schichtplanerfunktionen unverändert. Vor Aktualisierung Datensicherung exportieren.
+SchichtPilot Security 0.6.0: lokaler Prototyp für 7-Tage-Testphase und PRO-Infoseite. Keine echte Bezahlung, keine sichere Lizenz- oder Entwicklerauthentifizierung. Entwicklermodus nur zur Simulation. Vor Installation Daten sichern.
